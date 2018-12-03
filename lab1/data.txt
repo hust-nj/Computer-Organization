@@ -1,0 +1,15 @@
+v2.0 raw
+a3c1 a3c3 a3cd a3b1 a3b6 a3b0 a3b1 c4fe
+bcce 0d0a cac0 bde7 c9cf d3d0 d6d6 b9ca
+cac2 c4e3 bfb4 b9fd d2bb b1e9 becd b2bb
+cfeb d4d9 bfb4 d2bb b1e9 a3ac d2f2 ceaa
+c3bb d3d0 bde2 a1a3 d3d0 d0a9 b9ca cac2
+b7c2 b7f0 d7a2 b6a8 a3ac b2bb cac7 d2f2
+ceaa c5bc c8bb a3ac d2b2 b2bb cac7 d2f2
+ceaa b4ed b9fd a3ac b6f8 cac7 d2bb b8f6
+bde2 b2bb bfaa b5c4 bde1 a1a3 c8e7 b9fb
+cbfc c7a1 bac3 cac7 b3a1 b1af bee7 a3ac
+c4c7 c3b4 cbfc b5c4 b1af bee7 d4da b9ca
+cac2 bfaa cabc cab1 becd d2d1 bead d7a2
+b6a8 a1a3 0d0a a3c5 a3ce a3c4 a1aa a1aa
+d0bb d0bb b9db bfb4 
